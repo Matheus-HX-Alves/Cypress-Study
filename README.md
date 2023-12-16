@@ -1,11 +1,11 @@
 # Cypress-Study
-Este repositório é dedicado ao curso "Cypress: Automação de Testes E2E", onde explorei e aprimorei minhas habilidades em automação de testes utilizando a poderosa ferramenta Cypress. Aqui, você encontrará exemplos práticos, códigos-fonte e recursos úteis relacionados ao curso.
+This repository is dedicated to the "Cypress: End-to-End Test Automation" course, where I explored and enhanced my skills in test automation using the powerful Cypress tool. Here, you will find practical examples, source code, and useful resources related to the course.
 
-Principais Tópicos:
+## Key Topics:
 
-🔍 Estratégias de automação eficientes<br>
-🧪 Testes End-to-End (E2E)<br>
-🛠️ Gestão de bugs e resolução de problemas<br>
-📈 Melhores práticas em Cypress
+- 🔍 Efficient automation strategies
+- 🧪 End-to-End (E2E) Testing
+- 🛠️ Bug management and issue resolution
+- 📈 Best practices in Cypress
 
-Fique à vontade para explorar, clonar e contribuir! Juntos, podemos elevar ainda mais a qualidade dos nossos projetos através da automação de testes. Sua colaboração é sempre bem-vinda! 🤝
+Feel free to explore, clone, and contribute! Together, we can further elevate the quality of our projects through test automation. Your collaboration is always welcome! 🤝
