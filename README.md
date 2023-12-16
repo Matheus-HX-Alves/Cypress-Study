@@ -1,2 +1,10 @@
 # Cypress-Study
-Explorando o Cypress: Automatização E2E. Exemplos, códigos e práticas para aprimorar testes e elevar a qualidade dos projetos. Contribuições bem-vindas! 🧪📈 #Cypress #AutomacaoDeTestes
+Este repositório é dedicado ao curso "Cypress: Automação de Testes E2E", onde explorei e aprimorei minhas habilidades em automação de testes utilizando a poderosa ferramenta Cypress. Aqui, você encontrará exemplos práticos, códigos-fonte e recursos úteis relacionados ao curso.
+
+Principais Tópicos:
+🔍 Estratégias de automação eficientes
+🧪 Testes End-to-End (E2E)
+🛠️ Gestão de bugs e resolução de problemas
+📈 Melhores práticas em Cypress
+
+Fique à vontade para explorar, clonar e contribuir! Juntos, podemos elevar ainda mais a qualidade dos nossos projetos através da automação de testes. Sua colaboração é sempre bem-vinda! 🤝
